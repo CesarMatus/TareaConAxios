@@ -1,0 +1,27 @@
+body{
+    background-image: url("fondo.jpg");
+    background-image: no-repeat;
+    background-image: fixed;
+    background-image: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.centrar{
+    justify-content: center;
+}
+
+.margen{
+    margin-top: 7%;
+}
+
+
+.letra{
+    color:white;
+}
+
+.margenall{
+    margin: 5; 
+}
